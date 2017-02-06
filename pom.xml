@@ -8,5 +8,6 @@
   <description>GOF patterns</description>
   <modules>
   	<module>Observer</module>
+  	<module>Decorator</module>
   </modules>
 </project>
