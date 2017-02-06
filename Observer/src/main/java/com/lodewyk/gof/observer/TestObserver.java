@@ -10,13 +10,7 @@ public class TestObserver {
 		//Initializing observers
 		Observer incomeHandler = new IncomeHandler(stockData);
 		
-		Observer andreSin = new AndreSeObserver(stockData);
-		
 		stockData.setStockData("ABCD", 489.50f, 1000);
-		
-		
-		
-		
 		
 		
 	}
